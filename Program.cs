@@ -16,6 +16,7 @@ namespace AdapterExample
             var adapter = new PrinterAdapter(legacyPrinter);
 
             adapter.Print("Hello, world!");
+
         }
     }
 }
